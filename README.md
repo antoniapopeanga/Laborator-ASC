@@ -1,4 +1,4 @@
-# Arhitectura Ssitemelor de Calcul
+# Arhitectura Sistemelor de Calcul
 ## 1. Probleme lucrate pe parcurusul laboratarelor in limbaj Assembly
 ## 2. Proiect realizat in Assembly ce implementeaza:
  ###  -citirea si afisarea matricei de adiacenta a unui graf
